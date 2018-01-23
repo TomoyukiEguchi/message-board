@@ -1,0 +1,15 @@
+[22-Jan-2018 16:04:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php on line 13
+[22-Jan-2018 16:04:22 UTC] PHP Stack trace:
+[22-Jan-2018 16:04:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php:0
+[22-Jan-2018 16:04:27 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php on line 13
+[22-Jan-2018 16:04:27 UTC] PHP Stack trace:
+[22-Jan-2018 16:04:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php:0
+[22-Jan-2018 16:06:27 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php on line 13
+[22-Jan-2018 16:06:27 UTC] PHP Stack trace:
+[22-Jan-2018 16:06:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php:0
+[22-Jan-2018 16:06:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php on line 13
+[22-Jan-2018 16:06:36 UTC] PHP Stack trace:
+[22-Jan-2018 16:06:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php:0
+[22-Jan-2018 16:53:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php on line 13
+[22-Jan-2018 16:53:00 UTC] PHP Stack trace:
+[22-Jan-2018 16:53:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/app/Http/Controllers/MessagesController.php:0
