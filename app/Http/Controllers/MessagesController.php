@@ -53,7 +53,7 @@ class MessagesController extends Controller
         ]);
         
         $message = new Message;
-        $message->title = $request->content;
+        $message->title = $request->title;
         $message->content = $request->content;
         $message->save();
 
